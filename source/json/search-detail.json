@@ -3,7 +3,7 @@
 	"list":[
 		{
 			"id": 321,
-			"img": "http://localhost:8088/10f-1.jpg",
+			"img": "https://vue-shop1.herokuapp.com//10f-1.jpg",
 			"name": "安瞳Mandol（蔓朵）系列美瞳日抛混血自然彩色隐形眼镜5片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -14,7 +14,7 @@
 		},
 		{
 			"id": 312321,
-			"img": "http://localhost:8088/10f-2.jpg",
+			"img": "https://vue-shop1.herokuapp.com//10f-2.jpg",
 			"name": "茵洛Clalen iris美瞳日抛彩色隐形眼镜30片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -25,7 +25,7 @@
 		},
 		{
 			"id": 2321,
-			"img": "http://localhost:8088/10f-3.jpg",
+			"img": "https://vue-shop1.herokuapp.com//10f-3.jpg",
 			"name": "博士伦蕾丝炫眸日抛彩色隐形眼镜10片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -36,7 +36,7 @@
 		},
 		{
 			"id": 5321,
-			"img": "http://localhost:8088/10f-4.jpg",
+			"img": "https://vue-shop1.herokuapp.com//10f-4.jpg",
 			"name": "茵洛Clalen iris2美瞳双周抛彩色隐形眼镜6片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -47,7 +47,7 @@
 		},
 		{
 			"id": 8321,
-			"img": "http://localhost:8088/3f_4.jpg",
+			"img": "https://vue-shop1.herokuapp.com//3f_4.jpg",
 			"name": "安瞳Mandol（蔓朵）系列美瞳日抛混血自然彩色隐形眼镜5片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -58,7 +58,7 @@
 		},
 		{
 			"id": 7321,
-			"img": "http://localhost:8088/2f_6.jpg",
+			"img": "https://vue-shop1.herokuapp.com//2f_6.jpg",
 			"name": "安瞳Mandol（蔓朵）系列美瞳日抛混血自然彩色隐形眼镜5片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -69,7 +69,7 @@
 		},
 		{
 			"id": 6321,
-			"img": "http://localhost:8088/2f_7.jpg",
+			"img": "https://vue-shop1.herokuapp.com//2f_7.jpg",
 			"name": "安瞳Mandol（蔓朵）系列美瞳日抛混血自然彩色隐形眼镜5片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -80,7 +80,7 @@
 		},
 		{
 			"id": 9321,
-			"img": "http://localhost:8088/2f_5.jpg",
+			"img": "https://vue-shop1.herokuapp.com//2f_5.jpg",
 			"name": "安瞳Mandol（蔓朵）系列美瞳日抛混血自然彩色隐形眼镜5片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
@@ -91,7 +91,7 @@
 		},
 		{
 			"id": 6326,
-			"img": "http://localhost:8088/2f_4.jpg",
+			"img": "https://vue-shop1.herokuapp.com//2f_4.jpg",
 			"name": "安瞳Mandol（蔓朵）系列美瞳日抛混血自然彩色隐形眼镜5片装",
 			"keywords": "舒适水润 | 气质深邃 | 闪烁魅力",
 			"price": "169",
