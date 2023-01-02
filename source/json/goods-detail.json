@@ -5,15 +5,15 @@
 	"banners":[
 		{
 			"id": 1,
-			"img": "https://vue-shop1.herokuapp.com//detail-banner1.png"
+			"img": "https://vue-shop-t3n5.onrender.com/detail-banner1.png"
 		},
 		{
 			"id": 2,
-			"img": "https://vue-shop1.herokuapp.com//detail-banner2.png"
+			"img": "https://vue-shop-t3n5.onrender.com/detail-banner2.png"
 		},
 		{
 			"id": 3,
-			"img": "https://vue-shop1.herokuapp.com//detail-banner3.png"
+			"img": "https://vue-shop-t3n5.onrender.com/detail-banner3.png"
 		}
 	],
 	"newPrice": 358,
@@ -22,15 +22,15 @@
 	"standardImages":[
 		{
 			"color": "魅力棕-黑色",
-			"img": "https://vue-shop1.herokuapp.com//img-d-c1.jpg"
+			"img": "https://vue-shop-t3n5.onrender.com/img-d-c1.jpg"
 		},
 		{
 			"color": "棕色",
-			"img": "https://vue-shop1.herokuapp.com//img-d-c2.jpg"
+			"img": "https://vue-shop-t3n5.onrender.com/img-d-c2.jpg"
 		},
 		{
 			"color": "灰色",
-			"img": "https://vue-shop1.herokuapp.com//img-d-c3.jpg"
+			"img": "https://vue-shop-t3n5.onrender.com/img-d-c3.jpg"
 		}
 	],
 	"degree": [
@@ -42,28 +42,28 @@
 		"rateScore": "98.7",
 		"list": [
 			{
-				"userImg": "https://vue-shop1.herokuapp.com//user_img1.jpg",
+				"userImg": "https://vue-shop-t3n5.onrender.com/user_img1.jpg",
 				"name": "我很臭美",
 				"content": "朋友推荐的，很好看的颜色，上眼特别惊艳，自然粉色，舒适度也不错。",
-				"showImg": "https://vue-shop1.herokuapp.com//user_show1.jpg"
+				"showImg": "https://vue-shop-t3n5.onrender.com/user_show1.jpg"
 			},
 			{
-				"userImg": "https://vue-shop1.herokuapp.com//user_img1.jpg",
+				"userImg": "https://vue-shop-t3n5.onrender.com/user_img1.jpg",
 				"name": "叫我女王",
 				"content": "朋友推荐的，很好看的颜色，上眼特别惊艳，自然粉色，舒适度也不错。",
-				"showImg": "https://vue-shop1.herokuapp.com//user_show1.jpg"
+				"showImg": "https://vue-shop-t3n5.onrender.com/user_show1.jpg"
 			},
 			{
-				"userImg": "https://vue-shop1.herokuapp.com//user_img1.jpg",
+				"userImg": "https://vue-shop-t3n5.onrender.com/user_img1.jpg",
 				"name": "我很臭美",
 				"content": "朋友推荐的，很好看的颜色，上眼特别惊艳，自然粉色，舒适度也不错。",
-				"showImg": "https://vue-shop1.herokuapp.com//user_show1.jpg"
+				"showImg": "https://vue-shop-t3n5.onrender.com/user_show1.jpg"
 			},
 			{
-				"userImg": "https://vue-shop1.herokuapp.com//user_img1.jpg",
+				"userImg": "https://vue-shop-t3n5.onrender.com/user_img1.jpg",
 				"name": "我很臭美",
 				"content": "朋友推荐的，很好看的颜色，上眼特别惊艳，自然粉色，舒适度也不错。",
-				"showImg": "https://vue-shop1.herokuapp.com//user_show1.jpg"
+				"showImg": "https://vue-shop-t3n5.onrender.com/user_show1.jpg"
 			}
 		]
 	},
@@ -109,17 +109,17 @@
 		{
 			"stamp": "琉晶棕",
 			"text": "细腻的网点环状，简单却不失细节。精心调配的靓黑外圈，让眼眸深邃有神，内圈独特的裸肤棕映衬眼底，光感剔透更显双眸清透水润如琉晶。不用任何眼影，只贴合睫毛根部画出流畅眼线，眼尾微微上翘，涂抹有光泽和拉长效果的睫毛膏。清新又如水般的眼眸，柔和亲近感油然而生。",
-			"img": "https://vue-shop1.herokuapp.com//img-d4.png"
+			"img": "https://vue-shop-t3n5.onrender.com/img-d4.png"
 		},
 		{
 			"stamp": "清幽蓝 ",
 			"text": "宝石般清澈的蓝，从层层暗色星云中扩散，渐渐氤氲成深邃灿烂的星河。花纹的渐层叠加，贴合着眼部自然纹路，带来通透变色效果，勾勒出闪亮星光眸。适当的加深眼周立体感，眼眸中蓝色的自然露出，宛若天生混血美目。即使是通勤装扮，也不用担心效果突兀。",
-			"img": "https://vue-shop1.herokuapp.com//img-d5.png"
+			"img": "https://vue-shop-t3n5.onrender.com/img-d5.png"
 		},
 		{
 			"stamp": "活力黑",
 			"text": "深邃黑结合经典可可环打造自然放大的清新双眸。外环设计以集中瞳孔为焦点，围绕成双层闪耀星星环来营造出深邃感，第二层的甜美可可色糅合黑环，使配戴效果更有层次。不需要刻意的色彩和眼妆技巧，也能拥有元气神韵。",
-			"img": "https://vue-shop1.herokuapp.com//img-d6.png"
+			"img": "https://vue-shop-t3n5.onrender.com/img-d6.png"
 		}
 	]
 }

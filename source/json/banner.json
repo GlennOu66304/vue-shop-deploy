@@ -1,18 +1,18 @@
 [
 	{
 		"id": 1,
-		"img": "https://vue-shop1.herokuapp.com//2019banner1.jpg"
+		"img": "https://vue-shop-t3n5.onrender.com/2019banner1.jpg"
 	},
 	{
 		"id": 2,
-		"img": "https://vue-shop1.herokuapp.com//2019banner2.jpg"
+		"img": "https://vue-shop-t3n5.onrender.com/2019banner2.jpg"
 	},
 	{
 		"id": 3,
-		"img": "https://vue-shop1.herokuapp.com//2019banner3.jpg"
+		"img": "https://vue-shop-t3n5.onrender.com/2019banner3.jpg"
 	},
 	{
 		"id": 4,
-		"img": "https://vue-shop1.herokuapp.com//2019banner4.jpg"
+		"img": "https://vue-shop-t3n5.onrender.com/2019banner4.jpg"
 	}
 ]
